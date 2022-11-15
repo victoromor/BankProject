@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\bin\Debug\net6.0\EndToEndEncryption.exe
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\bin\Debug\net6.0\EndToEndEncryption.deps.json
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\bin\Debug\net6.0\EndToEndEncryption.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\bin\Debug\net6.0\EndToEndEncryption.dll
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\bin\Debug\net6.0\EndToEndEncryption.pdb
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.dll
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\refint\EndToEndEncryption.dll
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.pdb
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\EndToEndEncryption.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\EndToEndEncryption\obj\Debug\net6.0\ref\EndToEndEncryption.dll

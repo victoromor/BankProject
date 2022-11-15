@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\MyBank\bin\Debug\net6.0\MyBank.exe
+C:\Users\hp\Desktop\Tasks\MyBank\bin\Debug\net6.0\MyBank.deps.json
+C:\Users\hp\Desktop\Tasks\MyBank\bin\Debug\net6.0\MyBank.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\MyBank\bin\Debug\net6.0\MyBank.dll
+C:\Users\hp\Desktop\Tasks\MyBank\bin\Debug\net6.0\MyBank.pdb
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.dll
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\refint\MyBank.dll
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.pdb
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\MyBank.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\MyBank\obj\Debug\net6.0\ref\MyBank.dll

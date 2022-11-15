@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\hp\Desktop\Tasks\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\hp\Desktop\Tasks\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\hp\Desktop\Tasks\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll

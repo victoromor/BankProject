@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\bin\Debug\net6.0\NumbersTranslation.exe
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\bin\Debug\net6.0\NumbersTranslation.deps.json
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\bin\Debug\net6.0\NumbersTranslation.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\bin\Debug\net6.0\NumbersTranslation.dll
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\bin\Debug\net6.0\NumbersTranslation.pdb
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.dll
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\refint\NumbersTranslation.dll
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.pdb
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\NumbersTranslation.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\NumbersTranslation\obj\Debug\net6.0\ref\NumbersTranslation.dll

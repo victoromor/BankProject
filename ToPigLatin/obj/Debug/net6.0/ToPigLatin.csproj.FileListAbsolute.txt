@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Tasks\ToPigLatin\bin\Debug\net6.0\ToPigLatin.exe
+C:\Users\hp\Desktop\Tasks\ToPigLatin\bin\Debug\net6.0\ToPigLatin.deps.json
+C:\Users\hp\Desktop\Tasks\ToPigLatin\bin\Debug\net6.0\ToPigLatin.runtimeconfig.json
+C:\Users\hp\Desktop\Tasks\ToPigLatin\bin\Debug\net6.0\ToPigLatin.dll
+C:\Users\hp\Desktop\Tasks\ToPigLatin\bin\Debug\net6.0\ToPigLatin.pdb
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.AssemblyInfo.cs
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.dll
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\refint\ToPigLatin.dll
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.pdb
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ToPigLatin.genruntimeconfig.cache
+C:\Users\hp\Desktop\Tasks\ToPigLatin\obj\Debug\net6.0\ref\ToPigLatin.dll
